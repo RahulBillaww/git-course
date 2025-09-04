@@ -1,2 +1,4 @@
 Get the user data
 process the user data
+
+create ana avatar for the user
